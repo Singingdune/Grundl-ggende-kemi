@@ -1,3 +1,3 @@
 # Grundlaeggende-kemi
-Undervisnings materiale til grundlæggendekemi på universitet
-Velkomme til mit e-learning project
+Undervisnings materiale til grundlæggende kemi kursus på universitet.
+Velkomme til mit e-learing projekt
